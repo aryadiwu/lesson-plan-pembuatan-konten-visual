@@ -1,64 +1,49 @@
-# LESSON PLAN / RENCANA PELAKSANAAN PEMBELAJARAN (RPP)
+# 📚 LESSON PLAN (Rencana Penyajian)
+> **Program Pelatihan:** Desainer Grafis Muda / Pembuatan Konten Visual  
+> **Kejuruan:** TIK | **Unit Kompetensi:** M.74DKV13.012.2 - Menciptakan Karya Desain  
 
-## PERTEMUAN 04: DASAR COPYWRITING & PSIKOLOGI PEMBACA
-
----
-
-### I. INFORMASI UMUM
-- **Nama Pelatihan:** Pembuatan Konten Visual untuk Media Sosial
-- **Pertemuan Ke-:** 04 dari 20 Pertemuan
-- **Alokasi Waktu:** 4 JP (180 Menit)
-- **Target Peserta:** Pemula / Content Creator Muda / Pelaku UMKM / Designer Pemula
-- **Modul / Referensi:** Materi Google Drive Hari 04 (Jobsheet, Test Tertulis, Slide & Modul SKKNI)
+![Status](https://img.shields.io/badge/Status-Draft-orange) ![Pertemuan](https://img.shields.io/badge/Penyajian-Ke--4-blue) ![Waktu](https://img.shields.io/badge/Total_Waktu-180_Menit-green)
 
 ---
 
-### II. CAPAIAN & TUJUAN PEMBELAJARAN
-Setelah mengikuti sesi pembelajaran ini, peserta didik diharapkan mampu:
-1. Memahami psikologi audiens media sosial dan pemicu emosi (Emotional Triggers).
-2. Menguasai formula penulisan naskah/caption populer (AIDA, PAS, BAB).
-3. Menulis Hook, Body, dan Call to Action (CTA) yang dapat meningkatkan engagemen.
+## 📌 Metadata Pelatihan
 
----
-
-### III. POKOK BAHASAN / MATERI PEMBELAJARAN
-- Pengenalan Psikologi Pembaca & Target Audiens
-- Formula Copywriting Utama: AIDA (Attention, Interest, Desire, Action) & PAS (Problem, Agitate, Solution)
-- Teknik Pembuatan Hook (Judul/3 Detik Pertama) yang Menarik
-- Penyusunan Call to Action (CTA) dan Caption Struktural
-
----
-
-### IV. METODE, MEDIA & ALAT PEMBELAJARAN
-- **Metode Pembelajaran:** Ceramah Interaktif, Demonstrasi Praktik, Problem-Based Learning (PBL), Workshop Hands-on, dan Peer Review.
-- **Media Pembelajaran:** Slide Presentasi, Contoh Konten Visual, Lembar Jobsheet Hari 04, dan Kuis Interactive.
-- **Alat & Perangkat:** Smartphone (Android/iOS), Laptop, Aplikasi Canva / CapCut, Koneksi Internet, Tripod, dan Lighting.
-
----
-
-### V. SKENARIO / KEGIATAN PEMBELAJARAN
-
-| Tahapan Kegiatan | Deskripsi Aktivitas Pembelajaran |
+| Parameter | Detail |
 | :--- | :--- |
-| Pendahuluan (15 menit) | Diskusi interaktif mengenai caption atau iklan sosmed yang paling berkesan bagi peserta. |
-| Kegiatan Inti - Teori (60 menit) | Pemaparan materi formula copywriting AIDA/PAS, perbedaan naskah visual vs caption, serta psikologi warna/kata penarik. |
-| Kegiatan Inti - Latihan Penulisan (85 menit) | Latihan membuat 5 variasi Hook dan naskah copywriting iklan produk lokal sesuai Jobsheet Hari 04. |
-| Penutup (20 menit) | Presentasi singkat karya tulisan peserta, masukan instruktur, dan pengerjaan Test Tertulis Hari 04. |
-
-
----
-
-### VI. PENILAIAN & ASESMEN (EVALUASI)
-- **Jenis Asesmen:** Formatif & Sumatif
-- **Bentuk Asesmen:** Jobsheet Hari 04 (Latihan Penulisan Copywriting AIDA & Hook) & Kuis Test Tertulis Hari 04.
-- **Rubrik Penilaian:**
-  - **Sikap & Kehadiran (15%):** Kedisiplinan, keaktifan, dan etika kerja.
-  - **Pemahaman Teori (35%):** Hasil Test Tertulis / Kuis Hari 04.
-  - **Keterampilan Praktik (50%):** Kualitas penyelesaian Jobsheet / Karya Konten Visual.
+| **Unit Kompetensi** | M.74DKV13.012.2 — Menciptakan Karya Desain (72 JP) |
+| **Penyajian Ke-** | 4 dari 20 |
+| **Judul Materi** | **Dasar Copywriting & Psikologi Pembaca** |
+| **Alokasi Waktu** | 180 Menit |
+| **Instruktur** | Arry Trie Adhytia |
+| **Lokasi / Tanggal** | BPVP Belitung / September 2026 |
 
 ---
 
-### VII. TUGAS MANDIRI & TINDAK LANJUT
-1. Menyelesaikan seluruh instruksi kerja pada **Jobsheet Hari 04**.
-2. Mengunggah atau mendokumentasikan hasil latihan ke folder portofolio digital masing-masing.
-3. Membaca dan mempelajari materi pengantar untuk Pertemuan 05 berikutnya.
+## 🎯 Tujuan & Manfaat
+
+> [!NOTE]
+> **Tujuan Pembelajaran:**  
+> Setelah selesai mengikuti pelatihan ini peserta kompeten dalam menerapkan formula copywriting (AIDA, PAS), menyusun Hook visual penarik perhatian, dan Call-to-Action (CTA) pada naskah konten.
+
+- **Manfaat:** Peserta mampu menguasai keterampilan praktis sesuai standar kualifikasi nasional industri kreatif & kejuruan TIK.
+
+---
+
+## ⏱️ Alur & Pembagian Waktu (180 Menit)
+
+| No | Tahapan | Waktu | Aktivitas Instruktur & Peserta | Alat / Media |
+| :-: | :--- | :-: | :--- | :--- |
+| **1** | **Pendahuluan** | 10' | 1. Memberi salam dan Memperkenalkan diri<br>2. Mengabsen peserta pelatihan<br>3. Menjelaskan safety induction lab TIK<br>4. Apersepsi: Pentingnya 3 detik pertama (Hook) agar audiens tidak melakukan swipe-away<br>5. Menyampaikan judul unit dan tujuan pembelajaran | Slide PPT, Projector |
+| **2** | **Penyajian Konsep** | 35' | Instruktur menjelaskan kepada peserta terkait:<br>- Emosional triggers dan pemicu psikologis pembaca di media sosial<br>- Formula AIDA: Attention, Interest, Desire, Action<br>- Formula PAS: Problem, Agitate, Solution<br>Instruktur memberikan kesempatan peserta bertanya. | Power Point & Slide Anatomi Teks |
+| **3** | **Demonstrasi Instruktur** | 35' | Instruktur mendemonstrasikan kepada peserta terkait:<br>- 5 Jenis Hook: Pertanyaan Penasaran, Angka/Listicle, Kontroversi Halus, Solusi Masalah, & Stating Fact<br>- Penulisan CTA yang jelas (Save, Share, Click Link in Bio)<br>- Tanya jawab interaktif bersama peserta. | Power Point & Latihan Papan Tulis |
+| **4** | **Praktik Mandiri** | 35' | Instruktur memberikan jobsheet dan mendampingi peserta untuk:<br>- Menyusun 3 variasi Hook headline dan 1 naskah caption produk sesuai formula AIDA<br>- Menentukan CTA yang relevan dengan tujuan promosi<br>- Instruktur berkeliling memberikan koreksi naskah. | PC Lab / Lembar Jobsheet 04 |
+| **5** | **Kesimpulan** | 5' | Instruktur menyimpulkan copywriting yang efektif menggabungkan empati masalah pembaca dengan pesan singkat yang terstruktur. | Power Point |
+| **6** | **Aplikasi & Kuis** | 20' | Instruktur meminta peserta mengidentifikasi formula (AIDA/PAS) pada contoh naskah iklan. | Quizizz.com / Form |
+| **7** | **Evaluasi (Jobsheet)** | 30' | Instruktur menilai naskah copywriting AIDA buatan peserta sesuai standar rubrik Jobsheet 04. | Lembar Jobsheet 04 & Rubrik |
+| **8** | **Tugas Tambahan & Penutup** | 10' | Instruktur memberikan tugas tambahan: Memperbaiki caption 1 postingan IG pribadi menggunakan formula AIDA.<br>- Kebersihan lab (*5R*) & Doa Penutup | Form Pengumpulan |
+
+---
+
+> [!IMPORTANT]
+> **Catatan Instruktur:**  
+> Pastikan seluruh peserta aktif berpartisipasi dan mematuhi tata tertib keselamatan kerja TIK selama berada di laboratorium komputer.

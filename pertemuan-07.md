@@ -1,64 +1,49 @@
-# LESSON PLAN / RENCANA PELAKSANAAN PEMBELAJARAN (RPP)
+# 📚 LESSON PLAN (Rencana Penyajian)
+> **Program Pelatihan:** Desainer Grafis Muda / Pembuatan Konten Visual  
+> **Kejuruan:** TIK | **Unit Kompetensi:** M.74DKV13.012.2 - Menciptakan Karya Desain  
 
-## PERTEMUAN 07: CANVA BASIC, BRANDING & IDENTITAS VISUAL
-
----
-
-### I. INFORMASI UMUM
-- **Nama Pelatihan:** Pembuatan Konten Visual untuk Media Sosial
-- **Pertemuan Ke-:** 07 dari 20 Pertemuan
-- **Alokasi Waktu:** 4 JP (180 Menit)
-- **Target Peserta:** Pemula / Content Creator Muda / Pelaku UMKM / Designer Pemula
-- **Modul / Referensi:** Materi Google Drive Hari 07 (Jobsheet, Test Tertulis, Slide & Modul SKKNI)
+![Status](https://img.shields.io/badge/Status-Draft-orange) ![Pertemuan](https://img.shields.io/badge/Penyajian-Ke--7-blue) ![Waktu](https://img.shields.io/badge/Total_Waktu-180_Menit-green)
 
 ---
 
-### II. CAPAIAN & TUJUAN PEMBELAJARAN
-Setelah mengikuti sesi pembelajaran ini, peserta didik diharapkan mampu:
-1. Menguasai antarmuka, navasi, dan fitur-fitur dasar Canva.
-2. Memahami konsep Brand Identity (Logo, Color Palette, Typography Style, Brand Guidelines).
-3. Membangun Brand Kit awal untuk kebutuhan media sosial di Canva.
+## 📌 Metadata Pelatihan
 
----
-
-### III. POKOK BAHASAN / MATERI PEMBELAJARAN
-- Pengenalan Workspace Canva (Tools, Templates, Elements, Canvas Size)
-- Dasar Branding & Identitas Visual Perusahaan/Personal Brand
-- Penyusunan Brand Kit (Logo, Palette Warna, Kombinasi Font di Canva)
-- Teknik Ekspor Asset & Format File (PNG, JPG, SVG, PDF)
-
----
-
-### IV. METODE, MEDIA & ALAT PEMBELAJARAN
-- **Metode Pembelajaran:** Ceramah Interaktif, Demonstrasi Praktik, Problem-Based Learning (PBL), Workshop Hands-on, dan Peer Review.
-- **Media Pembelajaran:** Slide Presentasi, Contoh Konten Visual, Lembar Jobsheet Hari 07, dan Kuis Interactive.
-- **Alat & Perangkat:** Smartphone (Android/iOS), Laptop, Aplikasi Canva / CapCut, Koneksi Internet, Tripod, dan Lighting.
-
----
-
-### V. SKENARIO / KEGIATAN PEMBELAJARAN
-
-| Tahapan Kegiatan | Deskripsi Aktivitas Pembelajaran |
+| Parameter | Detail |
 | :--- | :--- |
-| Pendahuluan (15 menit) | Pentingnya konsistensi visual branding di seluruh channel media sosial. |
-| Kegiatan Inti - Demonstrasi Canva (45 menit) | Instruktur mendemonstrasikan eksplorasi alat Canva, pengaturan Brand Kit, dan pembuatan aset pertama. |
-| Kegiatan Inti - Praktik Mandiri (100 menit) | Peserta mengerjakan Jobsheet Hari 07 Canva Basic dan Jobsheet Branding & Identitas Visual. |
-| Penutup (20 menit) | Pemeriksaan Brand Kit peserta dan pengerjaan Test Tertulis Hari 07. |
-
-
----
-
-### VI. PENILAIAN & ASESMEN (EVALUASI)
-- **Jenis Asesmen:** Formatif & Sumatif
-- **Bentuk Asesmen:** Jobsheet Hari 07 (Canva Basic & Brand Kit Design) serta Test Tertulis Hari 07.
-- **Rubrik Penilaian:**
-  - **Sikap & Kehadiran (15%):** Kedisiplinan, keaktifan, dan etika kerja.
-  - **Pemahaman Teori (35%):** Hasil Test Tertulis / Kuis Hari 07.
-  - **Keterampilan Praktik (50%):** Kualitas penyelesaian Jobsheet / Karya Konten Visual.
+| **Unit Kompetensi** | M.74DKV13.012.2 — Menciptakan Karya Desain (72 JP) |
+| **Penyajian Ke-** | 7 dari 20 |
+| **Judul Materi** | **Canva Basic, Branding & Identitas Visual** |
+| **Alokasi Waktu** | 180 Menit |
+| **Instruktur** | Arry Trie Adhytia |
+| **Lokasi / Tanggal** | BPVP Belitung / September 2026 |
 
 ---
 
-### VII. TUGAS MANDIRI & TINDAK LANJUT
-1. Menyelesaikan seluruh instruksi kerja pada **Jobsheet Hari 07**.
-2. Mengunggah atau mendokumentasikan hasil latihan ke folder portofolio digital masing-masing.
-3. Membaca dan mempelajari materi pengantar untuk Pertemuan 08 berikutnya.
+## 🎯 Tujuan & Manfaat
+
+> [!NOTE]
+> **Tujuan Pembelajaran:**  
+> Setelah selesai mengikuti pelatihan ini peserta kompeten dalam mengoperasikan fitur dasar Canva, mengatur Brand Kit (Logo, Palette Warna, Font), dan menerapkan identitas visual merek secara konsisten.
+
+- **Manfaat:** Peserta mampu menguasai keterampilan praktis sesuai standar kualifikasi nasional industri kreatif & kejuruan TIK.
+
+---
+
+## ⏱️ Alur & Pembagian Waktu (180 Menit)
+
+| No | Tahapan | Waktu | Aktivitas Instruktur & Peserta | Alat / Media |
+| :-: | :--- | :-: | :--- | :--- |
+| **1** | **Pendahuluan** | 10' | 1. Memberi salam dan Memperkenalkan diri<br>2. Mengabsen peserta pelatihan<br>3. Menjelaskan safety induction lab TIK<br>4. Apersepsi: Konsistensi warna dan logo brand pada Feed Instagram<br>5. Menyampaikan judul unit dan tujuan pembelajaran | Slide PPT, Projector |
+| **2** | **Penyajian Konsep** | 35' | Instruktur menjelaskan kepada peserta terkait:<br>- Navigasi antarmuka Canva: Templates, Elements, Uploads, Text, Layers<br>- Elemen Identitas Visual: Logo, Palette Warna Utama, Font Style, & Graphic Elements<br>- Menentukan dimensi kanvas yang tepat (1:1, 4:5, 9:16)<br>Instruktur memberikan kesempatan peserta bertanya. | Power Point & Canva Web Interface |
+| **3** | **Demonstrasi Instruktur** | 35' | Instruktur mendemonstrasikan kepada peserta terkait:<br>- Cara mengonfigurasi Brand Kit di Canva (Upload logo, set HEX warna, tentukan font)<br>- Merancang 1 template postingan Feed sederhana berbasis Brand Kit<br>- Tanya jawab interaktif bersama peserta. | Canva App & Screen Projector |
+| **4** | **Praktik Mandiri** | 35' | Instruktur memberikan jobsheet dan mendampingi peserta untuk:<br>- Menyusun Brand Kit pribadi/UMKM pada akun Canva masing-masing<br>- Mendesain 1 template Feed Instagram 1080x1080px yang konsisten<br>- Instruktur berkeliling memberikan masukan perbaikan. | PC Lab / Canva & Jobsheet 07 |
+| **5** | **Kesimpulan** | 5' | Instruktur menyimpulkan Brand Kit di Canva mempermudah pembuatan desain yang konsisten dan efisien. | Power Point |
+| **6** | **Aplikasi & Kuis** | 20' | Instruktur memberikan kuis tebak elemen identitas visual brand terkenal. | Quizizz.com / Form |
+| **7** | **Evaluasi (Jobsheet)** | 30' | Instruktur menilai kelengkapan Brand Kit dan kerapian template Canva peserta. | Lembar Jobsheet 07 & Rubrik |
+| **8** | **Tugas Tambahan & Penutup** | 10' | Instruktur memberikan tugas tambahan: Membuat 2 variasi warna latar belakang pada template Canva.<br>- Kebersihan lab (*5R*) & Doa Penutup | Form Pengumpulan |
+
+---
+
+> [!IMPORTANT]
+> **Catatan Instruktur:**  
+> Pastikan seluruh peserta aktif berpartisipasi dan mematuhi tata tertib keselamatan kerja TIK selama berada di laboratorium komputer.

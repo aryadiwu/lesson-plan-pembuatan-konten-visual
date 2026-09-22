@@ -1,63 +1,49 @@
-# LESSON PLAN / RENCANA PELAKSANAAN PEMBELAJARAN (RPP)
+# 📚 LESSON PLAN (Rencana Penyajian)
+> **Program Pelatihan:** Desainer Grafis Muda / Pembuatan Konten Visual  
+> **Kejuruan:** TIK | **Unit Kompetensi:** M.74DKV13.012.2 - Menciptakan Karya Desain  
 
-## PERTEMUAN 20: PRESENTASI FINAL PROJECT, EVALUASI PORTOFOLIO & PENUTUPAN PELATIHAN
-
----
-
-### I. INFORMASI UMUM
-- **Nama Pelatihan:** Pembuatan Konten Visual untuk Media Sosial
-- **Pertemuan Ke-:** 20 dari 20 Pertemuan
-- **Alokasi Waktu:** 4 JP (180 Menit)
-- **Target Peserta:** Pemula / Content Creator Muda / Pelaku UMKM / Designer Pemula
-- **Modul / Referensi:** Materi Google Drive Hari 20 (Jobsheet, Test Tertulis, Slide & Modul SKKNI)
+![Status](https://img.shields.io/badge/Status-Draft-orange) ![Pertemuan](https://img.shields.io/badge/Penyajian-Ke--20-blue) ![Waktu](https://img.shields.io/badge/Total_Waktu-180_Menit-green)
 
 ---
 
-### II. CAPAIAN & TUJUAN PEMBELAJARAN
-Setelah mengikuti sesi pembelajaran ini, peserta didik diharapkan mampu:
-1. Mempresentasikan hasil kampanye konten visual terintegrasi di hadapan penguji dan rekan peserta.
-2. Menerima masukan dan evaluasi konstruktif terhadap karya portofolio yang dihasilkan.
-3. Merumuskan rencana pengembangan karier/usaha pasca-pelatihan di bidang pembuatan konten visual.
+## 📌 Metadata Pelatihan
 
----
-
-### III. POKOK BAHASAN / MATERI PEMBELAJARAN
-- Sesi Presentasi Karya Final Project (Showcasing Campaign Assets)
-- Evaluasi & Umpan Balik Instruktur/Penguji (Review Portofolio)
-- Refleksi Hasil Belajar 20 Pertemuan Pelatihan
-- Rencana Aksi Karier (Action Plan Content Creator/Digital Marketer)
-
----
-
-### IV. METODE, MEDIA & ALAT PEMBELAJARAN
-- **Metode Pembelajaran:** Ceramah Interaktif, Demonstrasi Praktik, Problem-Based Learning (PBL), Workshop Hands-on, dan Peer Review.
-- **Media Pembelajaran:** Slide Presentasi, Contoh Konten Visual, Lembar Jobsheet Hari 20, dan Kuis Interactive.
-- **Alat & Perangkat:** Smartphone (Android/iOS), Laptop, Aplikasi Canva / CapCut, Koneksi Internet, Tripod, dan Lighting.
-
----
-
-### V. SKENARIO / KEGIATAN PEMBELAJARAN
-
-| Tahapan Kegiatan | Deskripsi Aktivitas Pembelajaran |
+| Parameter | Detail |
 | :--- | :--- |
-| Pendahuluan (15 menit) | Pembukaan sesi ujian akhir presentasi dan pengarahan tata tertib presentasi. |
-| Kegiatan Inti - Presentasi & Uji Portofolio (140 menit) | Setiap peserta mempresentasikan kampanye konten visualnya selama 7-10 menit dilanjutkan tanya jawab dan umpan balik penguji. |
-| Penutup & Ceremonial (25 menit) | Pengumuman hasil evaluasi, penyerahan apresiasi karya terbaik, dan penutupan resmi pelatihan. |
-
-
----
-
-### VI. PENILAIAN & ASESMEN (EVALUASI)
-- **Jenis Asesmen:** Formatif & Sumatif
-- **Bentuk Asesmen:** Rubrik Penilaian Presentasi Final Project & Evaluasi Portofolio Komprehensif (Ujian Akhir Pelatihan).
-- **Rubrik Penilaian:**
-  - **Sikap & Kehadiran (15%):** Kedisiplinan, keaktifan, dan etika kerja.
-  - **Pemahaman Teori (35%):** Hasil Test Tertulis / Kuis Hari 20.
-  - **Keterampilan Praktik (50%):** Kualitas penyelesaian Jobsheet / Karya Konten Visual.
+| **Unit Kompetensi** | M.74DKV13.012.2 — Menciptakan Karya Desain (72 JP) |
+| **Penyajian Ke-** | 20 dari 20 |
+| **Judul Materi** | **Presentasi Final Project, Evaluasi Portofolio & Penutupan Pelatihan** |
+| **Alokasi Waktu** | 180 Menit |
+| **Instruktur** | Arry Trie Adhytia |
+| **Lokasi / Tanggal** | BPVP Belitung / September 2026 |
 
 ---
 
-### VII. TUGAS MANDIRI & TINDAK LANJUT
-1. Menyelesaikan seluruh instruksi kerja pada **Jobsheet Hari 20**.
-2. Mengunggah atau mendokumentasikan hasil latihan ke folder portofolio digital masing-masing.
-3. Membaca dan mempelajari materi pengantar untuk Pertemuan 21 berikutnya.
+## 🎯 Tujuan & Manfaat
+
+> [!NOTE]
+> **Tujuan Pembelajaran:**  
+> Setelah selesai mengikuti pelatihan ini peserta kompeten dalam mempresentasi karya kampanye konten visual di depan penguji, menerima umpan balik evaluasi, dan merumuskan rencana aksi karier content creator.
+
+- **Manfaat:** Peserta mampu menguasai keterampilan praktis sesuai standar kualifikasi nasional industri kreatif & kejuruan TIK.
+
+---
+
+## ⏱️ Alur & Pembagian Waktu (180 Menit)
+
+| No | Tahapan | Waktu | Aktivitas Instruktur & Peserta | Alat / Media |
+| :-: | :--- | :-: | :--- | :--- |
+| **1** | **Pendahuluan** | 10' | 1. Memberi salam dan pembukaan Ujian Presentasi Akhir<br>2. Mengabsen dan mengecek kesiapan peserta<br>3. Menjelaskan tata tertib dan durasi waktu presentasi (7 menit presentasi + 3 menit tanya jawab)<br>4. Pengarahan rubrik penilaian oleh tim penguji<br>5. Memulai sesi ujian presentasi | Slide PPT, Projector |
+| **2** | **Penyajian Konsep** | 35' | Pelaksanaan presentasi peserta kelompok 1 di hadapan penguji:<br>- Pemaparan konsep kampanye, pertunjukkan aset visual Carousel, Video Reels, dan Link-in-Bio<br>- Sesi tanya jawab dan masukan evaluasi dari instruktur penguji<br>- Penguji mencatat nilai pada rubrik ujian. | Slide Presentasi Peserta & Projector |
+| **3** | **Demonstrasi Instruktur** | 35' | Pelaksanaan presentasi peserta kelompok 2 di hadapan penguji:<br>- Pemaparan konsep kampanye, pertunjukkan aset visual Carousel, Video Reels, dan Link-in-Bio<br>- Sesi tanya jawab dan masukan evaluasi dari instruktur penguji<br>- Penguji mencatat nilai pada rubrik ujian. | Slide Presentasi Peserta & Projector |
+| **4** | **Praktik Mandiri** | 35' | Instruktur memimpin sesi akhir:<br>- Penyampaian evaluasi umum terhadap seluruh karya portofolio peserta<br>- Pengisian Rencana Aksi Karier (Action Plan Content Creator / Desainer Grafis)<br>- Penutupan resmi program pelatihan dan foto bersama. | Form Rencana Aksi & Berkas Penutupan |
+| **5** | **Kesimpulan** | 5' | Instruktur menyimpulkan seluruh 20 pertemuan telah membekali peserta dengan keterampilan lengkap pembuatan konten visual media sosial. | Slide Penutupan |
+| **6** | **Aplikasi & Kuis** | 20' | Peserta menyerahkan lembar komitmen Rencana Aksi Karier pasca-pelatihan. | Action Plan Sheet |
+| **7** | **Evaluasi (Jobsheet)** | 30' | Penguji merekapitulasi total nilai kelulusan pelatihan peserta. | Lembar Rekapitulasi Nilai Akhir |
+| **8** | **Tugas Tambahan & Penutup** | 10' | Instruktur memberikan pesan penutup: Terus konsisten mengunggah karya ke portofolio digital dan media sosial.<br>- Kebersihan lab (*5R*) & Doa Penutup | Form Pengumpulan |
+
+---
+
+> [!IMPORTANT]
+> **Catatan Instruktur:**  
+> Pastikan seluruh peserta aktif berpartisipasi dan mematuhi tata tertib keselamatan kerja TIK selama berada di laboratorium komputer.

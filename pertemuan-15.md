@@ -1,63 +1,49 @@
-# LESSON PLAN / RENCANA PELAKSANAAN PEMBELAJARAN (RPP)
+# 📚 LESSON PLAN (Rencana Penyajian)
+> **Program Pelatihan:** Desainer Grafis Muda / Pembuatan Konten Visual  
+> **Kejuruan:** TIK | **Unit Kompetensi:** M.74DKV13.012.2 - Menciptakan Karya Desain  
 
-## PERTEMUAN 15: CANVA CONTENT PLANNER, AUDIENS & TONE OF VOICE
-
----
-
-### I. INFORMASI UMUM
-- **Nama Pelatihan:** Pembuatan Konten Visual untuk Media Sosial
-- **Pertemuan Ke-:** 15 dari 20 Pertemuan
-- **Alokasi Waktu:** 4 JP (180 Menit)
-- **Target Peserta:** Pemula / Content Creator Muda / Pelaku UMKM / Designer Pemula
-- **Modul / Referensi:** Materi Google Drive Hari 15 (Jobsheet, Test Tertulis, Slide & Modul SKKNI)
+![Status](https://img.shields.io/badge/Status-Draft-orange) ![Pertemuan](https://img.shields.io/badge/Penyajian-Ke--15-blue) ![Waktu](https://img.shields.io/badge/Total_Waktu-180_Menit-green)
 
 ---
 
-### II. CAPAIAN & TUJUAN PEMBELAJARAN
-Setelah mengikuti sesi pembelajaran ini, peserta didik diharapkan mampu:
-1. Menentukan Tone of Voice (Gaya Bahasa/Sikap) merek yang sesuai dengan audiens sasaran.
-2. Menggunakan fitur Content Planner & Scheduling di Canva.
-3. Menyusun Kalender Konten (Content Calendar) bulanan yang teratur.
+## 📌 Metadata Pelatihan
 
----
-
-### III. POKOK BAHASAN / MATERI PEMBELAJARAN
-- Definisi & Formulasi Tone of Voice (Formal, Kasual, Humoris, Edukatif)
-- Penyusunan Content Matrix & Content Pillar (Edukasi, Hiburan, Promosi, Soft-selling)
-- Penggunaan Canva Content Planner (Scheduling & Direct Publishing)
-- Manajemen Workflow Publishing & Batch Content Creation
-
----
-
-### IV. METODE, MEDIA & ALAT PEMBELAJARAN
-- **Metode Pembelajaran:** Ceramah Interaktif, Demonstrasi Praktik, Problem-Based Learning (PBL), Workshop Hands-on, dan Peer Review.
-- **Media Pembelajaran:** Slide Presentasi, Contoh Konten Visual, Lembar Jobsheet Hari 15, dan Kuis Interactive.
-- **Alat & Perangkat:** Smartphone (Android/iOS), Laptop, Aplikasi Canva / CapCut, Koneksi Internet, Tripod, dan Lighting.
-
----
-
-### V. SKENARIO / KEGIATAN PEMBELAJARAN
-
-| Tahapan Kegiatan | Deskripsi Aktivitas Pembelajaran |
+| Parameter | Detail |
 | :--- | :--- |
-| Pendahuluan (15 menit) | Mengapa konsistensi jadwal posting dan tone of voice sangat penting bagi pertumbuhan akun. |
-| Kegiatan Inti - Diskusi Slide & Praktik (120 menit) | Penyampaian Slide Hari 15, pengerjaan Jobsheet Audiens & Tone of Voice serta Jobsheet Content Planner & Brand Kit. |
-| Penutup (45 menit) | Presentasi Kalender Konten bulanan peserta dan pengerjaan Test Tertulis Hari 15. |
-
-
----
-
-### VI. PENILAIAN & ASESMEN (EVALUASI)
-- **Jenis Asesmen:** Formatif & Sumatif
-- **Bentuk Asesmen:** Jobsheet Hari 15 (Audiens & Tone of Voice, Content Planner) & Test Tertulis Hari 15.
-- **Rubrik Penilaian:**
-  - **Sikap & Kehadiran (15%):** Kedisiplinan, keaktifan, dan etika kerja.
-  - **Pemahaman Teori (35%):** Hasil Test Tertulis / Kuis Hari 15.
-  - **Keterampilan Praktik (50%):** Kualitas penyelesaian Jobsheet / Karya Konten Visual.
+| **Unit Kompetensi** | M.74DKV13.012.2 — Menciptakan Karya Desain (72 JP) |
+| **Penyajian Ke-** | 15 dari 20 |
+| **Judul Materi** | **Canva Content Planner, Audiens & Tone of Voice** |
+| **Alokasi Waktu** | 180 Menit |
+| **Instruktur** | Arry Trie Adhytia |
+| **Lokasi / Tanggal** | BPVP Belitung / September 2026 |
 
 ---
 
-### VII. TUGAS MANDIRI & TINDAK LANJUT
-1. Menyelesaikan seluruh instruksi kerja pada **Jobsheet Hari 15**.
-2. Mengunggah atau mendokumentasikan hasil latihan ke folder portofolio digital masing-masing.
-3. Membaca dan mempelajari materi pengantar untuk Pertemuan 16 berikutnya.
+## 🎯 Tujuan & Manfaat
+
+> [!NOTE]
+> **Tujuan Pembelajaran:**  
+> Setelah selesai mengikuti pelatihan ini peserta kompeten dalam menentukan Tone of Voice merek, menyusun matriks kalender konten (Content Calendar), dan mengoperasikan fitur Canva Content Planner.
+
+- **Manfaat:** Peserta mampu menguasai keterampilan praktis sesuai standar kualifikasi nasional industri kreatif & kejuruan TIK.
+
+---
+
+## ⏱️ Alur & Pembagian Waktu (180 Menit)
+
+| No | Tahapan | Waktu | Aktivitas Instruktur & Peserta | Alat / Media |
+| :-: | :--- | :-: | :--- | :--- |
+| **1** | **Pendahuluan** | 10' | 1. Memberi salam dan Memperkenalkan diri<br>2. Mengabsen peserta pelatihan<br>3. Menjelaskan safety induction lab TIK<br>4. Apersepsi: Konsistensi jadwal posting dan karakter suara brand dalam membangun reputasi<br>5. Menyampaikan judul unit dan tujuan pembelajaran | Slide PPT, Projector |
+| **2** | **Penyajian Konsep** | 35' | Instruktur menjelaskan kepada peserta terkait:<br>- Menentukan karakter persona merek (Formal, Friendly, Energetic, Humorous)<br>- 4 Pilar Konten Utama: Educate, Entertain, Inspire, & Promote<br>- Menentukan proporsi pembagian pilar konten dalam satu bulan<br>Instruktur memberikan kesempatan peserta bertanya. | Power Point & Slide Tone of Voice |
+| **3** | **Demonstrasi Instruktur** | 35' | Instruktur mendemonstrasikan kepada peserta terkait:<br>- Mengisi jadwal tayang konten pada template Content Calendar bulanan<br>- Menggunakan fitur Canva Content Planner untuk mepenjadwalan posting otomatis ke media sosial<br>- Tanya jawab interaktif bersama peserta. | Canva Content Planner & Sheets |
+| **4** | **Praktik Mandiri** | 35' | Instruktur memberikan jobsheet dan mendampingi peserta untuk:<br>- Menyusun skema Kalender Konten untuk 1 minggu penuh (7 postingan) lengkap dengan pilar, format, dan caption<br>- Mengatur jadwal draf pada Canva Content Planner<br>- Instruktur berkeliling memberikan masukan. | PC Lab & Jobsheet 15 |
+| **5** | **Kesimpulan** | 5' | Instruktur menyimpulkan perencanaan kalender konten menjaga konsistensi publikasi tanpa harus membuat konten secara terburu-buru. | Power Point |
+| **6** | **Aplikasi & Kuis** | 20' | Instruktur meminta peserta menyebutkan contoh penyesuaian kata-kata sesuai Tone of Voice tertentu. | Quizizz.com / Form |
+| **7** | **Evaluasi (Jobsheet)** | 30' | Instruktur menilai variasi pilar dan kejelasan jadwal pada Kalender Konten peserta. | Lembar Jobsheet 15 & Rubrik |
+| **8** | **Tugas Tambahan & Penutup** | 10' | Instruktur memberikan tugas tambahan: Menyiapkan 2 draf desain gambar untuk jadwal posting hari berikutnya.<br>- Kebersihan lab (*5R*) & Doa Penutup | Form Pengumpulan |
+
+---
+
+> [!IMPORTANT]
+> **Catatan Instruktur:**  
+> Pastikan seluruh peserta aktif berpartisipasi dan mematuhi tata tertib keselamatan kerja TIK selama berada di laboratorium komputer.

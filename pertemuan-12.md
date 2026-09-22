@@ -1,64 +1,49 @@
-# LESSON PLAN / RENCANA PELAKSANAAN PEMBELAJARAN (RPP)
+# 📚 LESSON PLAN (Rencana Penyajian)
+> **Program Pelatihan:** Desainer Grafis Muda / Pembuatan Konten Visual  
+> **Kejuruan:** TIK | **Unit Kompetensi:** M.74DKV13.012.2 - Menciptakan Karya Desain  
 
-## PERTEMUAN 12: AUDIO ENHANCEMENT, MOTION GRAPHICS & ADVANCED CAPCUT
-
----
-
-### I. INFORMASI UMUM
-- **Nama Pelatihan:** Pembuatan Konten Visual untuk Media Sosial
-- **Pertemuan Ke-:** 12 dari 20 Pertemuan
-- **Alokasi Waktu:** 4 JP (180 Menit)
-- **Target Peserta:** Pemula / Content Creator Muda / Pelaku UMKM / Designer Pemula
-- **Modul / Referensi:** Materi Google Drive Hari 12 (Jobsheet, Test Tertulis, Slide & Modul SKKNI)
+![Status](https://img.shields.io/badge/Status-Draft-orange) ![Pertemuan](https://img.shields.io/badge/Penyajian-Ke--12-blue) ![Waktu](https://img.shields.io/badge/Total_Waktu-180_Menit-green)
 
 ---
 
-### II. CAPAIAN & TUJUAN PEMBELAJARAN
-Setelah mengikuti sesi pembelajaran ini, peserta didik diharapkan mampu:
-1. Menerapkan teknik Advanced CapCut (Keyframe Animation, Masking, Chroma Key/Green Screen).
-2. Melakukan ekualisasi dan pembersihan noise audio (Noise Reduction & Voice Over Balancing).
-3. Membuat efek motion graphics dan teks dinamis untuk meningkatkan nilai estetika video.
+## 📌 Metadata Pelatihan
 
----
-
-### III. POKOK BAHASAN / MATERI PEMBELAJARAN
-- Fitur Advanced CapCut: Keyframe Animation (Zoom in/out halus, Movement)
-- Teknik Masking, Overlay, dan Chroma Key (Green Screen Removal)
-- Audio Mixing & Noise Reduction untuk Suara Jernih
-- Motion Graphics Teks, Stiker Animasi, dan Tracking Motion
-
----
-
-### IV. METODE, MEDIA & ALAT PEMBELAJARAN
-- **Metode Pembelajaran:** Ceramah Interaktif, Demonstrasi Praktik, Problem-Based Learning (PBL), Workshop Hands-on, dan Peer Review.
-- **Media Pembelajaran:** Slide Presentasi, Contoh Konten Visual, Lembar Jobsheet Hari 12, dan Kuis Interactive.
-- **Alat & Perangkat:** Smartphone (Android/iOS), Laptop, Aplikasi Canva / CapCut, Koneksi Internet, Tripod, dan Lighting.
-
----
-
-### V. SKENARIO / KEGIATAN PEMBELAJARAN
-
-| Tahapan Kegiatan | Deskripsi Aktivitas Pembelajaran |
+| Parameter | Detail |
 | :--- | :--- |
-| Pendahuluan (15 menit) | Demonstrasi perbedaan video biasa vs video beranimasi motion graphics yang dinamis. |
-| Kegiatan Inti - Tutorial Advanced (45 menit) | Penjelasan penggunaan Keyframe untuk animasi kustom dan teknik masking di CapCut. |
-| Kegiatan Inti - Praktik (100 menit) | Peserta menerapkan keyframe, efek motion graphics, dan pembersihan audio sesuai Jobsheet Hari 12. |
-| Penutup (20 menit) | Showcase singkat beberapa karya video peserta dan pengerjaan Test Tertulis Hari 12. |
-
-
----
-
-### VI. PENILAIAN & ASESMEN (EVALUASI)
-- **Jenis Asesmen:** Formatif & Sumatif
-- **Bentuk Asesmen:** Jobsheet Hari 12 (Advanced CapCut & Audio Motion Graphics) serta Test Tertulis Hari 12.
-- **Rubrik Penilaian:**
-  - **Sikap & Kehadiran (15%):** Kedisiplinan, keaktifan, dan etika kerja.
-  - **Pemahaman Teori (35%):** Hasil Test Tertulis / Kuis Hari 12.
-  - **Keterampilan Praktik (50%):** Kualitas penyelesaian Jobsheet / Karya Konten Visual.
+| **Unit Kompetensi** | M.74DKV13.012.2 — Menciptakan Karya Desain (72 JP) |
+| **Penyajian Ke-** | 12 dari 20 |
+| **Judul Materi** | **Audio Enhancement, Motion Graphics & Advanced CapCut** |
+| **Alokasi Waktu** | 180 Menit |
+| **Instruktur** | Arry Trie Adhytia |
+| **Lokasi / Tanggal** | BPVP Belitung / September 2026 |
 
 ---
 
-### VII. TUGAS MANDIRI & TINDAK LANJUT
-1. Menyelesaikan seluruh instruksi kerja pada **Jobsheet Hari 12**.
-2. Mengunggah atau mendokumentasikan hasil latihan ke folder portofolio digital masing-masing.
-3. Membaca dan mempelajari materi pengantar untuk Pertemuan 13 berikutnya.
+## 🎯 Tujuan & Manfaat
+
+> [!NOTE]
+> **Tujuan Pembelajaran:**  
+> Setelah selesai mengikuti pelatihan ini peserta kompeten dalam menerapkan teknik Advanced CapCut (Keyframe Animation, Masking, Chroma Key) serta melakukan perbaikan kualitas audio (Noise Reduction).
+
+- **Manfaat:** Peserta mampu menguasai keterampilan praktis sesuai standar kualifikasi nasional industri kreatif & kejuruan TIK.
+
+---
+
+## ⏱️ Alur & Pembagian Waktu (180 Menit)
+
+| No | Tahapan | Waktu | Aktivitas Instruktur & Peserta | Alat / Media |
+| :-: | :--- | :-: | :--- | :--- |
+| **1** | **Pendahuluan** | 10' | 1. Memberi salam dan Memperkenalkan diri<br>2. Mengabsen peserta pelatihan<br>3. Menjelaskan safety induction lab TIK<br>4. Apersepsi: Efek gerakan teks dinamis dan SFX dalam meningkatkan nilai estetika video<br>5. Menyampaikan judul unit dan tujuan pembelajaran | Slide PPT, Projector |
+| **2** | **Penyajian Konsep** | 35' | Instruktur menjelaskan kepada peserta terkait:<br>- Konsep Keyframe: Membuat pergerakan kustom (Zoom in, Zoom out, Pan) pada gambar/teks<br>- Fitur Masking dan Overlay untuk efek reaksi / gambar menumpuk<br>- Fitur Chroma Key (Pembersih Latar Belakang Green Screen)<br>Instruktur memberikan kesempatan peserta bertanya. | Power Point & CapCut Advanced Demo |
+| **3** | **Demonstrasi Instruktur** | 35' | Instruktur mendemonstrasikan kepada peserta terkait:<br>- Penggunaan fitur Noise Reduction untuk menghilangkan suara bising latar belakang<br>- Penempatan Sound Effects (Whoosh, Pop, Bell) pada titik transisi teks/gambar<br>- Tanya jawab interaktif bersama peserta. | CapCut Software & Headset Projector |
+| **4** | **Praktik Mandiri** | 35' | Instruktur memberikan jobsheet dan mendampingi peserta untuk:<br>- Menambahkan minimal 3 gerakan Keyframe animasi pada elemen gambar/teks di video<br>- Memasukkan SFX penegas pada judul dan membersihkan audio suara talent<br>- Instruktur berkeliling melakukan bimbingan. | PC / HP Peserta & Jobsheet 12 |
+| **5** | **Kesimpulan** | 5' | Instruktur menyimpulkan animasi keyframe dan SFX yang terukur akan memberi kesan video profesional tanpa berlebihan. | Power Point |
+| **6** | **Aplikasi & Kuis** | 20' | Instruktur memberikan kuis identifikasi penggunaan keyframe pada contoh video klip. | Quizizz.com / Form |
+| **7** | **Evaluasi (Jobsheet)** | 30' | Instruktur menilai kehalusan gerakan animasi keyframe dan kejernihan audio peserta. | Lembar Jobsheet 12 & Rubrik |
+| **8** | **Tugas Tambahan & Penutup** | 10' | Instruktur memberikan tugas tambahan: Menambahkan 1 efek penegas visual pada kata kunci utama di video.<br>- Kebersihan lab (*5R*) & Doa Penutup | Form Pengumpulan |
+
+---
+
+> [!IMPORTANT]
+> **Catatan Instruktur:**  
+> Pastikan seluruh peserta aktif berpartisipasi dan mematuhi tata tertib keselamatan kerja TIK selama berada di laboratorium komputer.

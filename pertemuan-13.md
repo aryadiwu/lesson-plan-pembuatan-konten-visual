@@ -1,63 +1,49 @@
-# LESSON PLAN / RENCANA PELAKSANAAN PEMBELAJARAN (RPP)
+# 📚 LESSON PLAN (Rencana Penyajian)
+> **Program Pelatihan:** Desainer Grafis Muda / Pembuatan Konten Visual  
+> **Kejuruan:** TIK | **Unit Kompetensi:** M.74DKV13.012.2 - Menciptakan Karya Desain  
 
-## PERTEMUAN 13: INTEGRASI CANVA-CAPCUT & TEKNIK EKSPOR VIDEO OPTIMAL
-
----
-
-### I. INFORMASI UMUM
-- **Nama Pelatihan:** Pembuatan Konten Visual untuk Media Sosial
-- **Pertemuan Ke-:** 13 dari 20 Pertemuan
-- **Alokasi Waktu:** 4 JP (180 Menit)
-- **Target Peserta:** Pemula / Content Creator Muda / Pelaku UMKM / Designer Pemula
-- **Modul / Referensi:** Materi Google Drive Hari 13 (Jobsheet, Test Tertulis, Slide & Modul SKKNI)
+![Status](https://img.shields.io/badge/Status-Draft-orange) ![Pertemuan](https://img.shields.io/badge/Penyajian-Ke--13-blue) ![Waktu](https://img.shields.io/badge/Total_Waktu-180_Menit-green)
 
 ---
 
-### II. CAPAIAN & TUJUAN PEMBELAJARAN
-Setelah mengikuti sesi pembelajaran ini, peserta didik diharapkan mampu:
-1. Mengintegrasikan aset grafis dari Canva (PNG Transparent/Overlays) ke dalam projek CapCut.
-2. Memahami parameter rendering dan ekspor video (Bitrate, Resolution, FPS, Codec).
-3. Mengekspor video tanpa watermark dengan kualitas jernih siap diunggah ke platform sosmed.
+## 📌 Metadata Pelatihan
 
----
-
-### III. POKOK BAHASAN / MATERI PEMBELAJARAN
-- Workflow Integrasi Canva ke CapCut (Exporting Assets as PNG Transparent & Video Elements)
-- Desain Frame, Lower Thirds, & End Screen di Canva untuk Diimpor ke CapCut
-- Pemahaman Setting Ekspor (1080p, 60fps vs 30fps, High Bitrate, Color Space)
-- Troubleshooting Video Compression di Instagram & TikTok
-
----
-
-### IV. METODE, MEDIA & ALAT PEMBELAJARAN
-- **Metode Pembelajaran:** Ceramah Interaktif, Demonstrasi Praktik, Problem-Based Learning (PBL), Workshop Hands-on, dan Peer Review.
-- **Media Pembelajaran:** Slide Presentasi, Contoh Konten Visual, Lembar Jobsheet Hari 13, dan Kuis Interactive.
-- **Alat & Perangkat:** Smartphone (Android/iOS), Laptop, Aplikasi Canva / CapCut, Koneksi Internet, Tripod, dan Lighting.
-
----
-
-### V. SKENARIO / KEGIATAN PEMBELAJARAN
-
-| Tahapan Kegiatan | Deskripsi Aktivitas Pembelajaran |
+| Parameter | Detail |
 | :--- | :--- |
-| Pendahuluan (15 menit) | Memahami pentingnya alur kerja antar-aplikasi untuk mempermudah produksi konten profesional. |
-| Kegiatan Inti - Tutorial & Praktik (120 menit) | Peserta mendesain aset Lower Third & Frame di Canva lalu diintegrasikan ke video CapCut, dilanjutkan ekspor video sesuai Jobsheet Hari 13. |
-| Penutup (45 menit) | Review video akhir yang sudah diekspor dan pengerjaan Test Tertulis Hari 13. |
-
-
----
-
-### VI. PENILAIAN & ASESMEN (EVALUASI)
-- **Jenis Asesmen:** Formatif & Sumatif
-- **Bentuk Asesmen:** Jobsheet Hari 13 (Integrasi Canva-CapCut & Ekspor Video PDF) & Test Tertulis Hari 13.
-- **Rubrik Penilaian:**
-  - **Sikap & Kehadiran (15%):** Kedisiplinan, keaktifan, dan etika kerja.
-  - **Pemahaman Teori (35%):** Hasil Test Tertulis / Kuis Hari 13.
-  - **Keterampilan Praktik (50%):** Kualitas penyelesaian Jobsheet / Karya Konten Visual.
+| **Unit Kompetensi** | M.74DKV13.012.2 — Menciptakan Karya Desain (72 JP) |
+| **Penyajian Ke-** | 13 dari 20 |
+| **Judul Materi** | **Integrasi Canva-CapCut & Teknik Ekspor Video Optimal** |
+| **Alokasi Waktu** | 180 Menit |
+| **Instruktur** | Arry Trie Adhytia |
+| **Lokasi / Tanggal** | BPVP Belitung / September 2026 |
 
 ---
 
-### VII. TUGAS MANDIRI & TINDAK LANJUT
-1. Menyelesaikan seluruh instruksi kerja pada **Jobsheet Hari 13**.
-2. Mengunggah atau mendokumentasikan hasil latihan ke folder portofolio digital masing-masing.
-3. Membaca dan mempelajari materi pengantar untuk Pertemuan 14 berikutnya.
+## 🎯 Tujuan & Manfaat
+
+> [!NOTE]
+> **Tujuan Pembelajaran:**  
+> Setelah selesai mengikuti pelatihan ini peserta kompeten dalam mengintegrasikan aset grafis buatan Canva ke dalam timeline CapCut serta mengekspor video dengan parameter bitrate & resolusi yang optimal.
+
+- **Manfaat:** Peserta mampu menguasai keterampilan praktis sesuai standar kualifikasi nasional industri kreatif & kejuruan TIK.
+
+---
+
+## ⏱️ Alur & Pembagian Waktu (180 Menit)
+
+| No | Tahapan | Waktu | Aktivitas Instruktur & Peserta | Alat / Media |
+| :-: | :--- | :-: | :--- | :--- |
+| **1** | **Pendahuluan** | 10' | 1. Memberi salam dan Memperkenalkan diri<br>2. Mengabsen peserta pelatihan<br>3. Menjelaskan safety induction lab TIK<br>4. Apersepsi: Penyebab video yang sudah diedit bagus menjadi pecah saat diunggah ke sosmed<br>5. Menyampaikan judul unit dan tujuan pembelajaran | Slide PPT, Projector |
+| **2** | **Penyajian Konsep** | 35' | Instruktur menjelaskan kepada peserta terkait:<br>- Merancang elemen pendukung di Canva (Lower Third, Frame Nominator, End Screen, Stickers)<br>- Ekspor aset Canva dengan latar transparan (PNG Transparent)<br>- Mengimpor dan mengatur posisi overlay aset Canva di timeline CapCut<br>Instruktur memberikan kesempatan peserta bertanya. | Power Point & Interface Canva/CapCut |
+| **3** | **Demonstrasi Instruktur** | 35' | Instruktur mendemonstrasikan kepada peserta terkait:<br>- Pemilihan resolusi (1080p vs 4K) dan Frame Rate (30fps vs 60fps)<br>- Pengaturan Bitrate (Recommended vs Higher Bitrate) untuk mencegah kompresi berlebih di Instagram/TikTok<br>- Tanya jawab interaktif bersama peserta. | CapCut Export Settings & Projector |
+| **4** | **Praktik Mandiri** | 35' | Instruktur memberikan jobsheet dan mendampingi peserta untuk:<br>- Mendesain Lower Third nama talent di Canva, lalu memasangkannya ke video CapCut<br>- Mengekspor video final tanpa watermark dengan resolusi 1080p 30fps<br>- Instruktur berkeliling mendampingi proses rendering. | PC / HP Peserta & Jobsheet 13 |
+| **5** | **Kesimpulan** | 5' | Instruktur menyimpulkan integrasi Canva-CapCut memperkaya estetika grafis, sedangkan parameter rendering yang tepat menjaga kejernihan visual. | Power Point |
+| **6** | **Aplikasi & Kuis** | 20' | Instruktur meminta peserta membandingkan ukuran file dan kualitas gambar dari 2 setting bitrate berbeda. | File Property Comparison |
+| **7** | **Evaluasi (Jobsheet)** | 30' | Instruktur menilai kelancaran integrasi aset Canva dan kejernihan file video final buatan peserta. | Lembar Jobsheet 13 & Rubrik |
+| **8** | **Tugas Tambahan & Penutup** | 10' | Instruktur memberikan tugas tambahan: Mengunggah file video final ke Google Drive portofolio.<br>- Kebersihan lab (*5R*) & Doa Penutup | Form Pengumpulan |
+
+---
+
+> [!IMPORTANT]
+> **Catatan Instruktur:**  
+> Pastikan seluruh peserta aktif berpartisipasi dan mematuhi tata tertib keselamatan kerja TIK selama berada di laboratorium komputer.

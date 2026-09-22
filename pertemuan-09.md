@@ -1,64 +1,49 @@
-# LESSON PLAN / RENCANA PELAKSANAAN PEMBELAJARAN (RPP)
+# 📚 LESSON PLAN (Rencana Penyajian)
+> **Program Pelatihan:** Desainer Grafis Muda / Pembuatan Konten Visual  
+> **Kejuruan:** TIK | **Unit Kompetensi:** M.74DKV13.012.2 - Menciptakan Karya Desain  
 
-## PERTEMUAN 09: PROTOTIPE DESAIN & NARASI VISUAL (STORYTELLING)
-
----
-
-### I. INFORMASI UMUM
-- **Nama Pelatihan:** Pembuatan Konten Visual untuk Media Sosial
-- **Pertemuan Ke-:** 09 dari 20 Pertemuan
-- **Alokasi Waktu:** 4 JP (180 Menit)
-- **Target Peserta:** Pemula / Content Creator Muda / Pelaku UMKM / Designer Pemula
-- **Modul / Referensi:** Materi Google Drive Hari 09 (Jobsheet, Test Tertulis, Slide & Modul SKKNI)
+![Status](https://img.shields.io/badge/Status-Draft-orange) ![Pertemuan](https://img.shields.io/badge/Penyajian-Ke--9-blue) ![Waktu](https://img.shields.io/badge/Total_Waktu-180_Menit-green)
 
 ---
 
-### II. CAPAIAN & TUJUAN PEMBELAJARAN
-Setelah mengikuti sesi pembelajaran ini, peserta didik diharapkan mampu:
-1. Menyusun alur narasi visual (Visual Storytelling) yang menyentuh emosi audiens.
-2. Membuat prototipe desain konten lengkap (Feed Carousel + Story + Cover Video).
-3. Melakukan pengujian awal prototipe (Usability & Appeal Test) kepada sesama peserta.
+## 📌 Metadata Pelatihan
 
----
-
-### III. POKOK BAHASAN / MATERI PEMBELAJARAN
-- Prinsip Narasi Visual (Visual Storytelling Arc: Hook, Conflict, Resolution, Action)
-- Prototyping Konten Visual (Mockup Display & Visual Consistency Check)
-- Teknik Feedback & Peer Review Hasil Prototipe Desain
-- Iterasi & Penyempurnaan Prototipe Konten Visual
-
----
-
-### IV. METODE, MEDIA & ALAT PEMBELAJARAN
-- **Metode Pembelajaran:** Ceramah Interaktif, Demonstrasi Praktik, Problem-Based Learning (PBL), Workshop Hands-on, dan Peer Review.
-- **Media Pembelajaran:** Slide Presentasi, Contoh Konten Visual, Lembar Jobsheet Hari 09, dan Kuis Interactive.
-- **Alat & Perangkat:** Smartphone (Android/iOS), Laptop, Aplikasi Canva / CapCut, Koneksi Internet, Tripod, dan Lighting.
-
----
-
-### V. SKENARIO / KEGIATAN PEMBELAJARAN
-
-| Tahapan Kegiatan | Deskripsi Aktivitas Pembelajaran |
+| Parameter | Detail |
 | :--- | :--- |
-| Pendahuluan (15 menit) | Pentingnya alur cerita (story arc) dalam mempertahankan perhatian audiens. |
-| Kegiatan Inti - Penyusunan Prototipe (105 menit) | Peserta menyusun prototipe narasi visual lengkap berdasarkan Jobsheet Hari 09 (Prototipe Desain & Narasi Visual). |
-| Kegiatan Inti - Uji Praktik & Peer Review (40 menit) | Pelaksanaan Test Praktik Hari 09: Mempresentasikan prototipe konten kepada teman sebaya untuk mendapat masukan. |
-| Penutup (20 menit) | Penyimpulan evaluasi dan pengerjaan Test Tertulis Hari 09. |
-
-
----
-
-### VI. PENILAIAN & ASESMEN (EVALUASI)
-- **Jenis Asesmen:** Formatif & Sumatif
-- **Bentuk Asesmen:** Jobsheet Hari 09 (Prototipe Desain & Narasi Visual), Test Praktik Hari 09, dan Test Tertulis Hari 09.
-- **Rubrik Penilaian:**
-  - **Sikap & Kehadiran (15%):** Kedisiplinan, keaktifan, dan etika kerja.
-  - **Pemahaman Teori (35%):** Hasil Test Tertulis / Kuis Hari 09.
-  - **Keterampilan Praktik (50%):** Kualitas penyelesaian Jobsheet / Karya Konten Visual.
+| **Unit Kompetensi** | M.74DKV13.012.2 — Menciptakan Karya Desain (72 JP) |
+| **Penyajian Ke-** | 9 dari 20 |
+| **Judul Materi** | **Prototipe Desain & Narasi Visual (Storytelling)** |
+| **Alokasi Waktu** | 180 Menit |
+| **Instruktur** | Arry Trie Adhytia |
+| **Lokasi / Tanggal** | BPVP Belitung / September 2026 |
 
 ---
 
-### VII. TUGAS MANDIRI & TINDAK LANJUT
-1. Menyelesaikan seluruh instruksi kerja pada **Jobsheet Hari 09**.
-2. Mengunggah atau mendokumentasikan hasil latihan ke folder portofolio digital masing-masing.
-3. Membaca dan mempelajari materi pengantar untuk Pertemuan 10 berikutnya.
+## 🎯 Tujuan & Manfaat
+
+> [!NOTE]
+> **Tujuan Pembelajaran:**  
+> Setelah selesai mengikuti pelatihan ini peserta kompeten dalam merancang prototipe desain grafis terintegrasi (Feed + Story + Banner) berbasis alur narasi visual (Storytelling) yang persuasif.
+
+- **Manfaat:** Peserta mampu menguasai keterampilan praktis sesuai standar kualifikasi nasional industri kreatif & kejuruan TIK.
+
+---
+
+## ⏱️ Alur & Pembagian Waktu (180 Menit)
+
+| No | Tahapan | Waktu | Aktivitas Instruktur & Peserta | Alat / Media |
+| :-: | :--- | :-: | :--- | :--- |
+| **1** | **Pendahuluan** | 10' | 1. Memberi salam dan Memperkenalkan diri<br>2. Mengabsen peserta pelatihan<br>3. Menjelaskan safety induction lab TIK<br>4. Apersepsi: Menghubungkan cerita emosional dengan bentuk prototipe tampilan desain<br>5. Menyampaikan judul unit dan tujuan pembelajaran | Slide PPT, Projector |
+| **2** | **Penyajian Konsep** | 35' | Instruktur menjelaskan kepada peserta terkait:<br>- Struktur narasi visual: Hook (Pembuka), Conflict (Masalah), Climax (Solusi), Resolution (CTA)<br>- Konsistensi tone warna dan emosi dari slide pertama hingga slide terakhir<br>- Pengertian prototipe desain dan penyusunan mockup kampanye<br>Instruktur memberikan kesempatan peserta bertanya. | Power Point & Slide Storytelling |
+| **3** | **Demonstrasi Instruktur** | 35' | Instruktur mendemonstrasikan kepada peserta terkait:<br>- Menggabungkan elemen Feed Carousel dan Instagram Story menjadi satu kesatuan prototipe kampanye<br>- Melakukan self-check keterbacaan naskah cerita dan daya tarik gambar<br>- Tanya jawab interaktif bersama peserta. | Canva / Figma & Projector |
+| **4** | **Praktik Mandiri** | 35' | Instruktur memberikan jobsheet dan mendampingi peserta untuk:<br>- Menyusun prototipe narasi visual lengkap (3 slide Feed + 1 Story Promosi)<br>- Melakukan uji praktik peer-review presentasi singkat prototipe ke teman sebaya<br>- Instruktur berkeliling memberikan masukan perbaikan. | PC Lab & Jobsheet/Test Praktik 09 |
+| **5** | **Kesimpulan** | 5' | Instruktur menyimpulkan prototipe desain dengan narasi yang kuat mampu menyampaikan nilai produk secara menyentuh emosi audiens. | Power Point |
+| **6** | **Aplikasi & Kuis** | 20' | Instruktur meminta beberapa peserta mempresentasikan narasi cerita desainnya. | Presentasi Singkat |
+| **7** | **Evaluasi (Jobsheet)** | 30' | Instruktur menilai prototipe dan keterhubungan narasi cerita sesuai lembar Test Praktik Hari 09. | Lembar Test Praktik 09 & Rubrik |
+| **8** | **Tugas Tambahan & Penutup** | 10' | Instruktur memberikan tugas tambahan: Merapikan susunan tata letak prototipe berdasarkan masukan peer review.<br>- Kebersihan lab (*5R*) & Doa Penutup | Form Pengumpulan |
+
+---
+
+> [!IMPORTANT]
+> **Catatan Instruktur:**  
+> Pastikan seluruh peserta aktif berpartisipasi dan mematuhi tata tertib keselamatan kerja TIK selama berada di laboratorium komputer.

@@ -1,64 +1,49 @@
-# LESSON PLAN / RENCANA PELAKSANAAN PEMBELAJARAN (RPP)
+# 📚 LESSON PLAN (Rencana Penyajian)
+> **Program Pelatihan:** Desainer Grafis Muda / Pembuatan Konten Visual  
+> **Kejuruan:** TIK | **Unit Kompetensi:** M.74DKV13.012.2 - Menciptakan Karya Desain  
 
-## PERTEMUAN 03: TEKNIK PENGAMBILAN VIDEO DENGAN SMARTPHONE
-
----
-
-### I. INFORMASI UMUM
-- **Nama Pelatihan:** Pembuatan Konten Visual untuk Media Sosial
-- **Pertemuan Ke-:** 03 dari 20 Pertemuan
-- **Alokasi Waktu:** 4 JP (180 Menit)
-- **Target Peserta:** Pemula / Content Creator Muda / Pelaku UMKM / Designer Pemula
-- **Modul / Referensi:** Materi Google Drive Hari 03 (Jobsheet, Test Tertulis, Slide & Modul SKKNI)
+![Status](https://img.shields.io/badge/Status-Draft-orange) ![Pertemuan](https://img.shields.io/badge/Penyajian-Ke--3-blue) ![Waktu](https://img.shields.io/badge/Total_Waktu-180_Menit-green)
 
 ---
 
-### II. CAPAIAN & TUJUAN PEMBELAJARAN
-Setelah mengikuti sesi pembelajaran ini, peserta didik diharapkan mampu:
-1. Memahami prinsip pergerakan kamera (Pan, Tilt, Zoom, Track, Panning, Dolly shot).
-2. Menguasai teknik stabilisasi video hp (Handheld technique, Gimbal, Tripod).
-3. Merencanakan dan mengambil footage video pendek yang menarik untuk Reels/TikTok.
+## 📌 Metadata Pelatihan
 
----
-
-### III. POKOK BAHASAN / MATERI PEMBELAJARAN
-- Prinsip Dasar Sinematografi Smartphone (Resolution 1080p vs 4K, Frame Rate 24fps/30fps/60fps)
-- Jenis Shot (B-Roll, A-Roll, Close-Up, Medium Shot, Wide Shot)
-- Teknik Pergerakan Kamera (Camera Movement & Stabilization)
-- Manajemen File Footage & Storyboarding Ringkas
-
----
-
-### IV. METODE, MEDIA & ALAT PEMBELAJARAN
-- **Metode Pembelajaran:** Ceramah Interaktif, Demonstrasi Praktik, Problem-Based Learning (PBL), Workshop Hands-on, dan Peer Review.
-- **Media Pembelajaran:** Slide Presentasi, Contoh Konten Visual, Lembar Jobsheet Hari 03, dan Kuis Interactive.
-- **Alat & Perangkat:** Smartphone (Android/iOS), Laptop, Aplikasi Canva / CapCut, Koneksi Internet, Tripod, dan Lighting.
-
----
-
-### V. SKENARIO / KEGIATAN PEMBELAJARAN
-
-| Tahapan Kegiatan | Deskripsi Aktivitas Pembelajaran |
+| Parameter | Detail |
 | :--- | :--- |
-| Pendahuluan (15 menit) | Pembahasan konsep video pendek di media sosial dan pentingnya variasi shot. |
-| Kegiatan Inti - Teori & Penjelasan (45 menit) | Penjelasan mengenai frame rate, resolusi, jenis shot (Establishing shot hingga Detail shot), dan pergerakan kamera. |
-| Kegiatan Inti - Praktik Pengambilan Gambar (100 menit) | Peserta melakukan simulasi pengambilan B-Roll dan A-Roll sesuai panduan Jobsheet Hari 03. |
-| Penutup (20 menit) | Evaluasi bersama footage hasil rekam peserta dan pengisian Test Tertulis Hari 03. |
-
-
----
-
-### VI. PENILAIAN & ASESMEN (EVALUASI)
-- **Jenis Asesmen:** Formatif & Sumatif
-- **Bentuk Asesmen:** Jobsheet Hari 03 (Tugas Shooting Video Pendek B-Roll) & Kuis Test Tertulis Hari 03.
-- **Rubrik Penilaian:**
-  - **Sikap & Kehadiran (15%):** Kedisiplinan, keaktifan, dan etika kerja.
-  - **Pemahaman Teori (35%):** Hasil Test Tertulis / Kuis Hari 03.
-  - **Keterampilan Praktik (50%):** Kualitas penyelesaian Jobsheet / Karya Konten Visual.
+| **Unit Kompetensi** | M.74DKV13.012.2 — Menciptakan Karya Desain (72 JP) |
+| **Penyajian Ke-** | 3 dari 20 |
+| **Judul Materi** | **Teknik Pengambilan Video dengan Smartphone** |
+| **Alokasi Waktu** | 180 Menit |
+| **Instruktur** | Arry Trie Adhytia |
+| **Lokasi / Tanggal** | BPVP Belitung / September 2026 |
 
 ---
 
-### VII. TUGAS MANDIRI & TINDAK LANJUT
-1. Menyelesaikan seluruh instruksi kerja pada **Jobsheet Hari 03**.
-2. Mengunggah atau mendokumentasikan hasil latihan ke folder portofolio digital masing-masing.
-3. Membaca dan mempelajari materi pengantar untuk Pertemuan 04 berikutnya.
+## 🎯 Tujuan & Manfaat
+
+> [!NOTE]
+> **Tujuan Pembelajaran:**  
+> Setelah selesai mengikuti pelatihan ini peserta kompeten dalam menguasai pergerakan kamera (Camera Movement), stabilisasi video, dan pengambilan variasi shot (A-Roll & B-Roll) menggunakan smartphone.
+
+- **Manfaat:** Peserta mampu menguasai keterampilan praktis sesuai standar kualifikasi nasional industri kreatif & kejuruan TIK.
+
+---
+
+## ⏱️ Alur & Pembagian Waktu (180 Menit)
+
+| No | Tahapan | Waktu | Aktivitas Instruktur & Peserta | Alat / Media |
+| :-: | :--- | :-: | :--- | :--- |
+| **1** | **Pendahuluan** | 10' | 1. Memberi salam dan Memperkenalkan diri<br>2. Mengabsen peserta pelatihan<br>3. Menjelaskan safety induction pergerakan kamera<br>4. Apersepsi: Mengapa video Reels/TikTok butuh variasi shot dinamis agar tidak dibaikan<br>5. Menyampaikan judul unit dan tujuan pembelajaran | Slide PPT, Projector |
+| **2** | **Penyajian Konsep** | 35' | Instruktur menjelaskan kepada peserta terkait:<br>- Resolusi video (1080p vs 4K) dan Frame Rate (24fps, 30fps, 60fps)<br>- Variasi jenis shot: Wide Shot, Medium Shot, Close-Up, dan Detail Shot<br>- Perbedaan A-Roll (Subjek Utama) dan B-Roll (Video Pendukung)<br>Instruktur membuka sesi tanya jawab. | Power Point & Video Sample Shot |
+| **3** | **Demonstrasi Instruktur** | 35' | Instruktur mendemonstrasikan kepada peserta terkait:<br>- Teknik Panning, Tilting, Dolly In/Out, dan Orbit shot secara halus (Handheld)<br>- Penggunaan Tripod dan Gimbal Stabilizer untuk meredam goncangan<br>- Tanya jawab interaktif bersama peserta. | Gimbal Stabilizer & Smartphone Master |
+| **4** | **Praktik Mandiri** | 35' | Instruktur memberikan jobsheet dan mendampingi peserta untuk:<br>- Mengambil 5 klip B-Roll berdurasi 5 detik dengan variasi shot & movement berbeda<br>- Memastikan footage tidak shaking dan fokus terkunci<br>- Instruktur berkeliling memberikan masukan. | Smartphone Peserta & Jobsheet 03 |
+| **5** | **Kesimpulan** | 5' | Instruktur menyimpulkan variasi shot dan pergerakan kamera yang stabil adalah kunci utama menarik perhatian penonton video pendek. | Power Point |
+| **6** | **Aplikasi & Kuis** | 20' | Instruktur memberikan pertanyaan seputar penentuan frame rate dan jenis shot sesuai skenario. | Quizizz.com / Form |
+| **7** | **Evaluasi (Jobsheet)** | 30' | Instruktur menilai 5 klip B-Roll peserta berdasarkan kejelasan fokus dan kestabilan gerakan. | Lembar Jobsheet 03 & Rubrik |
+| **8** | **Tugas Tambahan & Penutup** | 10' | Instruktur memberikan tugas tambahan: Merekam 3 klip B-Roll kegiatan sehari-hari dengan teknik Panning.<br>- Kebersihan lab (*5R*) & Doa Penutup | Form Pengumpulan |
+
+---
+
+> [!IMPORTANT]
+> **Catatan Instruktur:**  
+> Pastikan seluruh peserta aktif berpartisipasi dan mematuhi tata tertib keselamatan kerja TIK selama berada di laboratorium komputer.
